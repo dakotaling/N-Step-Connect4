@@ -2,7 +2,6 @@
 Connect Four Game
 Based on the AIMA-Python implementation (https://github.com/aimacode/aima-python)
 Extended and modified by Dakota Ling, 2024
-with assistance from Claude AI (Anthropic, PBC)
 """
 
 import time
